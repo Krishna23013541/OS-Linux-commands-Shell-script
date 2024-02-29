@@ -1543,7 +1543,7 @@ fi
 ## OUTPUT 
 ```
 Enter the number
-5
+545
 Number is palindrome
 ```
 
